@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.0ec71ef5.css",
-    "main.js": "/react-portfolio/static/js/main.1171944e.js",
-    "static/js/592.fc1c8623.chunk.js": "/react-portfolio/static/js/592.fc1c8623.chunk.js",
-    "static/media/astronaut.png": "/react-portfolio/static/media/astronaut.e4c546c729b50fa2830f.png",
-    "static/media/uni.jpeg": "/react-portfolio/static/media/uni.44d2cbc8d5b730d20285.jpeg",
-    "static/media/night.jpg": "/react-portfolio/static/media/night.e0b7cf9253ccb22b5148.jpg",
-    "static/media/bg.jpg": "/react-portfolio/static/media/bg.5348934b86346926dc3e.jpg",
-    "static/media/revicons.eot": "/react-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/react-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/react-portfolio/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/react-portfolio/index.html",
-    "main.0ec71ef5.css.map": "/react-portfolio/static/css/main.0ec71ef5.css.map",
-    "main.1171944e.js.map": "/react-portfolio/static/js/main.1171944e.js.map",
-    "592.fc1c8623.chunk.js.map": "/react-portfolio/static/js/592.fc1c8623.chunk.js.map"
+    "main.css": "/Manhal1994/react-portfolio/static/css/main.853d9c0b.css",
+    "main.js": "/Manhal1994/react-portfolio/static/js/main.ca95810b.js",
+    "static/js/592.fc1c8623.chunk.js": "/Manhal1994/react-portfolio/static/js/592.fc1c8623.chunk.js",
+    "static/media/astronaut.png": "/Manhal1994/react-portfolio/static/media/astronaut.e4c546c729b50fa2830f.png",
+    "static/media/uni.jpeg": "/Manhal1994/react-portfolio/static/media/uni.44d2cbc8d5b730d20285.jpeg",
+    "static/media/night.jpg": "/Manhal1994/react-portfolio/static/media/night.e0b7cf9253ccb22b5148.jpg",
+    "static/media/bg.jpg": "/Manhal1994/react-portfolio/static/media/bg.5348934b86346926dc3e.jpg",
+    "static/media/revicons.eot": "/Manhal1994/react-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Manhal1994/react-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Manhal1994/react-portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Manhal1994/react-portfolio/index.html",
+    "main.853d9c0b.css.map": "/Manhal1994/react-portfolio/static/css/main.853d9c0b.css.map",
+    "main.ca95810b.js.map": "/Manhal1994/react-portfolio/static/js/main.ca95810b.js.map",
+    "592.fc1c8623.chunk.js.map": "/Manhal1994/react-portfolio/static/js/592.fc1c8623.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ec71ef5.css",
-    "static/js/main.1171944e.js"
+    "static/css/main.853d9c0b.css",
+    "static/js/main.ca95810b.js"
   ]
 }
