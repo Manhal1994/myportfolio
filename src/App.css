@@ -150,8 +150,11 @@ div.social-item:hover::before {
 }
 .intro {
   flex: 1;
+  max-height: 90%;
+  min-height: 90%;
   position: absolute;
   left: 10%;
+  top: 5%;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -170,7 +173,7 @@ div.social-item:hover::before {
   font-weight: bold;
 }
 .welcome {
-  margin-top: 13%;
+  margin-top: 100px;
   padding: 5px 10px;
   font-size: 1.4rem;
   color: white;
